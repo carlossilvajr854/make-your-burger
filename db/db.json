@@ -98,51 +98,39 @@
         "Cebola roxa",
         "Pimentão"
       ],
-      "status": "Solicitado",
+      "status": "Finalizado",
       "id": 1
     },
     {
-      "nome": "Gleyce",
-      "pao": "3 Queijos",
-      "carne": "Alcatra",
+      "nome": "Sulzyany",
+      "pao": "Integral",
+      "carne": "Maminha",
       "opcionais": [
         "Bacon",
+        "Pimentão",
         "Salame",
-        "Cheddar"
+        "Pepino",
+        "Cheddar",
+        "Tomate"
       ],
-      "status": "Solicitado",
+      "status": "Finalizado",
       "id": 2
     },
     {
-      "nome": "Suzy",
+      "nome": "Gabriel",
       "pao": "3 Queijos",
-      "carne": "Picanha",
+      "carne": "Maminha",
       "opcionais": [
         "Bacon",
         "Salame",
+        "Cebola roxa",
         "Pimentão",
         "Cheddar",
         "Tomate",
         "Pepino"
       ],
-      "status": "Solicitado",
+      "status": "Em produção",
       "id": 3
-    },
-    {
-      "nome": "Gabriel",
-      "pao": "3 Queijos",
-      "carne": "Alcatra",
-      "opcionais": [
-        "Bacon",
-        "Salame",
-        "Pimentão",
-        "Cheddar",
-        "Tomate",
-        "Pepino",
-        "Cebola roxa"
-      ],
-      "status": "Solicitado",
-      "id": 4
     }
   ]
 }
